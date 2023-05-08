@@ -12,7 +12,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: url("/images/backfoot.jpeg");
+    background-image: url("./images/backfoot.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
